@@ -1,0 +1,1 @@
+{"name":"english-garden","version":"1.0.0","private":true,"scripts":{"start":"node server.mjs","test":"node --test tests.mjs"},"type":"module"}

@@ -1,0 +1,8 @@
+data/
+*.log
+.env
+.env.*
+!.env.example
+node_modules/
+*.tmp
+navigation-preview.jpg
